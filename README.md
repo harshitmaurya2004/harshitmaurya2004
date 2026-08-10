@@ -11,7 +11,8 @@
 ### 🚀 About Me
 
 AI Engineer focused on building intelligent, scalable, and production-ready AI solutions. Experienced in generative AI, and LLM-based applications, with a strong interest in turning complex problems into practical products.  
-I enjoy working across the AI stack—from model development and experimentation to deployment, optimization, and automation. Always learning, building, and exploring new possibilities in AI.  
+I enjoy working across the AI stack—from model development and experimentation to deployment, optimization, and automation. Always learning, building, and exploring new possibilities in AI. 
+
 Interests: Artificial Intelligence • Generative AI • LLMs • NLP
 
 🔭 &nbsp;I'm currently working on **AI-powered applications, LLM systems, and production-ready machine learning solutions**  
