@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/harshitmaurya2004">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Harshit%20Maurya" alt="Hello! I&#39;m Harshit Maurya" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=27D3F5&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Harshit%20Maurya" alt="Hello! I&#39;m Harshit Maurya" />
   </a>
 </p>
 
